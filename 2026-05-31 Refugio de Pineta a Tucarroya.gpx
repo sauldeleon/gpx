@@ -61,20 +61,20 @@
     <name>Cascada de deshielo</name>
     <sym>Drinking Water</sym>
   </wpt>
-  <wpt lat="42.697667" lon="0.040194">
-    <ele>2669.924939259735</ele>
-    <name>Refugio de Tucarroya</name>
-    <sym>Shelter</sym>
+  <wpt lat="42.693198" lon="0.040482">
+    <ele>2590.005431209013</ele>
+    <name>Ibón de Marboré</name>
+    <sym>Binoculars</sym>
   </wpt>
   <wpt lat="42.696325" lon="0.04087">
     <ele>2592.767150939674</ele>
     <name>Subida a refugio</name>
     <sym>Crossing</sym>
   </wpt>
-  <wpt lat="42.693198" lon="0.040482">
-    <ele>2590.005431209013</ele>
-    <name>Ibón de Marboré</name>
-    <sym>Binoculars</sym>
+  <wpt lat="42.697667" lon="0.040194">
+    <ele>2669.924939259735</ele>
+    <name>Refugio de Tucarroya</name>
+    <sym>Shelter</sym>
   </wpt>
   <trk>
     <name>31/5/26, 07:18:27</name>
