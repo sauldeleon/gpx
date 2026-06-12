@@ -41,6 +41,11 @@
     <name>Travesía lateral</name>
     <sym>Alert</sym>
   </wpt>
+  <wpt lat="42.677282" lon="0.036941">
+    <ele>3100.016491544819</ele>
+    <name>Inicio segundo corredor</name>
+    <sym>Information</sym>
+  </wpt>
   <wpt lat="42.676619" lon="0.037172">
     <ele>3183.2645504094485</ele>
     <name>Cinta con clavo y maillon</name>
@@ -50,11 +55,6 @@
     <ele>3341.354809651674</ele>
     <name>Monte Perdido</name>
     <sym>Summit</sym>
-  </wpt>
-  <wpt lat="42.677282" lon="0.036941">
-    <ele>3100.016491544819</ele>
-    <name>Inicio segundo corredor</name>
-    <sym>Information</sym>
   </wpt>
   <trk>
     <name>1/6/26, 06:39:18</name>
