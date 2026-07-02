@@ -180,6 +180,11 @@
     <desc>- Destrepe feo, cuidado</desc>
     <sym>Alert</sym>
   </wpt>
+  <wpt lat="42.606931" lon="-0.134183">
+    <ele>1031.9322577455723</ele>
+    <name>Tobogán 6m</name>
+    <sym>Information</sym>
+  </wpt>
   <wpt lat="42.605556" lon="-0.131004">
     <ele>1018.0210186787107</ele>
     <name>Salto/rapel izquierda 8m</name>
