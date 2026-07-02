@@ -200,10 +200,10 @@
   </wpt>
   <wpt lat="42.605594" lon="-0.130353">
     <ele>1013.6617307423403</ele>
-    <name>Salto derecha 2m</name>
-    <cmt>- Aproximación por derecha
+    <name>Salto izquierda 2m</name>
+    <cmt>- Aproximación por izquierda
 - No es tobogán</cmt>
-    <desc>- Aproximación por derecha
+    <desc>- Aproximación por izquierda
 - No es tobogán</desc>
     <sym>Information</sym>
   </wpt>
